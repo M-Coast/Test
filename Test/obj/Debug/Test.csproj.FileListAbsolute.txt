@@ -12,3 +12,16 @@ c:\users\ma\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Prope
 c:\users\ma\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
 c:\users\ma\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
 c:\users\ma\documents\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\MA\Documents\GitHub\Test\Test\bin\Debug\Test.exe.config
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\Test.exe
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\Test.pdb
+C:\Users\MA\Documents\GitHub\Test\Test\bin\Debug\Test.exe
+C:\Users\MA\Documents\GitHub\Test\Test\bin\Debug\Test.pdb
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\MainWindow.g.cs
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\App.g.cs
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\Test_MarkupCompile.lref
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\MainWindow.baml
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\Test.g.resources
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\MA\Documents\GitHub\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
